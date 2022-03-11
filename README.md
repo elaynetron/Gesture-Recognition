@@ -1,6 +1,6 @@
 # Gesture Recognition
 
-### SCSE Final Year Project to detect hand gesture (mainly fist gesture) to aid in diagnosis of Rheumatoid Arthritis
+### Final Year Project to detect hand gesture (mainly fist gesture) to aid in diagnosis of Rheumatoid Arthritis
 
 
 ### Directory
