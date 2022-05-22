@@ -1,19 +1,25 @@
-# Gesture Recognition
+# RA diagnosis via gesture recognition
 
-### Final Year Project to detect hand gesture (mainly fist gesture) to aid in diagnosis of Rheumatoid Arthritis
+### Final Year Project to detect hand gestures to aid in diagnosis of Rheumatoid Arthritis
 
 
 ### Directory
 
+##### RA_diagnosis_app
+
+Main application to recognise fist gestures, record time taken and perform risk assessment of Rheumatoid Arthritis
+
+#### keypoint_recorder
+
+Recorder for data collection of keypoints
 
 #### hand_gesture_time
 
-Main app, to recgonise fist gestures and record time taken to perform action. 
-App will record time taken from fist gesture to open and back to fist
+First draft of application to recgonise fist gestures and record time taken to perform action
 
 #### keypoint_classification
 
-Jupyter notebook for training of model based on collected keypoint data
+Training of model based on collected keypoint data
 
 #### model/keypoint_classifier
 
