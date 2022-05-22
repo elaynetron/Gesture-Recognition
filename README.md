@@ -1,4 +1,4 @@
-# RA diagnosis via gesture recognition
+# Rheumatoid Arthritis diagnosis via gesture recognition
 
 ### Final Year Project to detect hand gestures to aid in diagnosis of Rheumatoid Arthritis
 
